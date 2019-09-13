@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"User",
+				"User_Email"
+			],
+			[
+				"se",
+				"select_user"
+			],
+			[
+				"p",
+				"pass"
+			],
+			[
+				"ge",
+				"getElementByName"
+			],
+			[
+				"va",
+				"validation"
+			],
+			[
+				"e",
+				"errname"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mysqli",
+				"mysqli_escape_string"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"N",
+				"name"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"S",
+				"Square"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"area",
+				"arearectangle"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"cy",
+				"cyl"
+			],
+			[
+				"cyl",
+				"cylinder"
+			],
+			[
+				"impl",
+				"class_implements"
+			],
+			[
+				"fun",
+				"funcation"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"j",
+				"justify\ttext-align"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"foo",
+				"foot1"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"br",
+				"border-radius\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bor",
+				"border-right\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"col-md-4"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"sc",
+				"scaleY()\ttransform"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"txe",
+				"text-decoration\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"c",
+				"col-md-10"
+			],
+			[
+				"hi",
+				"line-height\tproperty"
+			],
+			[
+				"tras",
+				"transform\tproperty"
+			],
+			[
+				"lin",
+				"linear-gradient"
+			],
+			[
+				"ff",
+				"ff7e5f"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/php_lab/www/PhpLabProject/index.php",
+			"settings":
+			{
+				"buffer_size": 12623,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "/D/php_lab/www/PhpLabProject/index.css",
+			"settings":
+			{
+				"buffer_size": 6134,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "body"
+			}
+		},
+		{
+			"file": "/D/php_lab/www/PhpLabProject/validation.js",
+			"settings":
+			{
+				"buffer_size": 4072,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "function name() {"
+			}
+		},
+		{
+			"file": "/D/php_lab/www/PhpLabProject/customer.php",
+			"settings":
+			{
+				"buffer_size": 8559,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/php_lab/www/PhpLabProject/insert_user.php",
+			"settings":
+			{
+				"buffer_size": 470,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/php_lab/www/PhpLabProject/login.php",
+			"settings":
+			{
+				"buffer_size": 593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/php_lab/www/PhpLabProject/customer.php",
+		"/D/php_lab/www/PhpLabProject/connection.php",
+		"/D/php_lab/www/MCA28/Assignment4.php",
+		"/D/php_lab/www/MCA28/Assignment3.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/php_lab/www/PhpLabProject/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9649,
+								9649
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6732.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/php_lab/www/PhpLabProject/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5737,
+								5734
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7699.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/php_lab/www/PhpLabProject/validation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3846,
+								3831
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function name() {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/php_lab/www/PhpLabProject/customer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3457,
+								3421
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2709.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/php_lab/www/PhpLabProject/insert_user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								131,
+								131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/php_lab/www/PhpLabProject/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								417,
+								417
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 12.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

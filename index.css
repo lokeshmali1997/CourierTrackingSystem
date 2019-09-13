@@ -1,0 +1,382 @@
+body
+{
+
+}
+ul{
+	list-style-type: none;
+}
+.footertxt{
+	border: none;
+	height: 50px;
+	margin:20px 0px 0px 2em;
+	margin-top: 20px;
+	outline: none;
+	border-radius: 12px;
+	border: 1px solid #ff7e5f;
+	padding: 10px;
+	width: 80%;
+	text-align: center;
+}
+
+.footerbtn{
+	border: none;
+	height: 40px;
+	width :50%;
+	margin-left: 6em;
+	color: #fff;
+	margin-top: 30px;
+	background:linear-gradient(120deg, #ff7e5f, #feb47b);
+	outline: none;
+	border-radius: 3.375rem;
+	 box-shadow:0 3px 5px rgba(0,0,0,.125);
+
+}
+.foot1{background-color: ;}
+.fa-mobile-alt,.fa-envelope,.fa-map-marker-alt{
+	margin-right: 10px;
+}
+.footer h4{
+	text-align: center;
+	font-family:"Times New Roman";
+}
+.foot1 li{
+	font-size: 14px;
+	font-family:"Times New Roman";
+	line-height: 2;
+
+}
+
+.foot2 li a{
+	font-size: 14px;
+		line-height: 2;
+		text-decoration: none;
+		margin-left: 4em;
+
+}
+.ptxt{
+	text-align: center;
+	color: rgba(255,255,255,.7);
+	margin-top: 40px;    
+    margin-bottom: 50px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.marqtxt{
+	    font: 700 25px/30px Lato,Arial,sans-serif;
+    color: #fff;
+    margin-top: 50px;
+}
+.about-btn
+{
+	    border: 0;
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+    font-weight: 700;
+    border-color: #fff;
+    color: #2F308D;
+    background-color: #fff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+    padding: 15px 30px;
+    text-align: center;
+    outline: none;
+    margin-bottom: 20px;
+    left: 30em;
+    position: absolute;
+}
+.about-btn:hover
+{
+  background-color: rgb(255,255,255,.7);
+}
+.navbar
+       {
+         height: 11%;
+	     background-color:#fff;
+	     box-shadow:  0px 0px 4px #ccc; 
+       }
+
+.nav.navbar-nav li a{
+	background-color: ;
+	height: 44px;
+	text-align: right;
+	color:#272727;
+	font-family:'Montserrat',Helvetica,sans-serif;
+	font-weight: 500;
+	line-height: 1.3;
+
+}
+.nav.navbar-nav li a:hover
+{
+    background-color: #fff;
+
+}
+
+.nav.navbar-nav li a:focus
+{
+	background-color: #fff;
+}
+.nav-btn{
+	margin-top: 10px;
+	border-radius: 3.375rem;
+	background: #ff7e5f; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #ff7e5f, #feb47b);
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+	color: #fff;
+	border:none;
+	height: 30px;
+	padding:0px 8px;
+    font-weight: 500;
+	line-height:;
+}
+.nav-btn:focus{
+	outline: none;
+}
+
+
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  position: relative;
+  margin:;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 5px;
+  width: 5px;
+  margin: ;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #fff;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 120px;
+  height: 120px;
+  border:5px solid #fff;
+  border-radius: 50%;
+  margin:60px 10px 100px 35px;
+  box-shadow: 0px 6px 13px #cacbce;
+}
+.txt{
+      font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+  .footer{
+  	border-top:1px solid #cccccc47;
+  	margin-top: 20px;
+  	background-color:;
+  	height: 40%;
+  	font-family:"Times New Roman";
+}
+
+.social-icon
+{
+	margin-top: 30px;
+	position:relative; ;
+	//transform: translateY(-50%);
+	//width: 100%;
+	text-align: center;
+	
+
+	 
+}
+.btn-icon
+{
+	display: inline-block;
+	width: 30px;
+	height:30px;
+	background-color: #f1f1f1;
+	margin: 10px;
+	border-radius: 30%;
+	box-shadow:0 5px 15px -5px #00000070;
+	color: #3498db;
+	overflow: hidden;
+	position: relative;
+
+}
+.btn-icon i
+{
+   width:30px;
+   line-height: 30px;
+   margin-top: 1px;
+   font-size: 14px;
+   transition: 0.2s linear;
+
+}
+.btn-icon i:hover
+{
+  transform: scale(1.3);
+  color: #f1f1f1;
+  
+}
+.btn-icon::before
+{
+   content: "";
+   position: absolute;
+   width: 120%;
+   height: 120%;
+   background-color:#3498db;
+   transform: rotate(45deg);
+    left: -110%;
+    top: 90%;
+}
+.btn-icon:hover::before
+{
+   animation: aaa 0.7s 1;
+    left: -10%;
+    top: -10%;
+}
+
+@keyframes aaa
+{
+
+   0%{
+   	 left: -110%;
+    top: 90%;
+
+   	}50%{ left: 10%;
+    top: -30%;
+
+   		}100%{
+   			left: -10%;
+            top: -10%;
+      }
+}
+
+.login{
+	margin:0px;
+	padding: 0px;
+	font-family: monospace;
+	//height: 500px;
+	width: 100%;
+	box-sizing: border-box;
+	background:linear-gradient(120deg,#3498db,#8e44ad);
+}
+.login-form{
+	margin-top: 220px;
+	width :  500px;
+	height: 500px;
+	background:#f1f1f1;
+	padding: 60px 40px;
+	border-radius: 10px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+.login-form h1{
+	text-align: center;
+	margin-bottom: 40px;
+
+}
+.txtb{
+	border-bottom: 2px solid #adadad;
+	position: relative;
+	margin: 10px 0;
+}
+.txtb input{
+	font-size: 15px;
+	color: #333;
+	border: none;
+	width: 100%;
+	outline: none;
+	background: none;
+	padding: 0 5px;
+	height: 40px;
+}
+.txtb span::before
+{
+  content: attr(data-placeholder);
+  position: absolute;
+  top:50%;
+  left: 5px;
+  color:#adadad;
+  transform: translateY(-50%);
+  z-index: 1;
+  transition: .5s;            	
+}
+.txtb span::after
+{
+  content: '';
+  position: absolute;
+  width:0%;
+  height: 2px;
+  top: 40px;
+  left: 0px;
+  color:#adadad;
+  background:linear-gradient(120deg,#3498db,#8e44ad); 
+  transition: .5s;            	
+}
+
+.focus + span::before
+{
+	top:5px;
+}
+.focus + span::after
+{
+	width: 100%;
+}
+
+.btn-log{
+	display: block;
+	width: 100%;
+	height: 50px;
+	border: none;
+	background:linear-gradient(120deg,#3498db,#8e44ad);
+	background-size: 130%;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    transition: .5s;
+    margin-top: 15px;
+
+}
+.btn-log:hover
+{
+  background-position: right;
+}
+
+.bottom-text
+{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 13px;
+}
